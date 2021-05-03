@@ -1,1 +1,1 @@
-# MATLAB_DSP
+# Fitness App - DSP Project in MATLAB
